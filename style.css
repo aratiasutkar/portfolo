@@ -1,0 +1,93 @@
+#navlist{
+    list-style: none;
+    text-align: center;
+    color: white;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    overflow: none;
+
+}
+
+.navcontainer{
+    width: 100vw;
+    background-color: rgb(25, 111, 240);
+    min-height: 100px;
+}
+
+#name{
+    font-size: 2.5rem;
+}
+
+#sk{
+    color:rgb(25, 111, 240);
+    height: 50px;
+    margin-top: 20px;
+}
+
+#textarea{
+    background-color: rgb(226, 224, 224);
+    border-color:  rgb(226, 224, 224);
+    margin: auto;
+    width: 60%;
+    border:1px solid  rgb(226, 224, 224);
+    padding: 6px;
+    height: 33px;
+    
+}
+
+#pj{
+    color: rgb(25, 111, 240);
+    height: 50px;
+    margin-top: 20px;
+}
+
+#pname{
+    text-align: left;
+    margin-bottom: 10px;
+}
+#table{
+    width: 90%;
+    height: 90px;
+    border: 1px solid lightgray;
+}
+
+#con{
+    color:rgb(25, 111, 240);
+    height: 50px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+#fat{
+    border: 1px solid lightgray;
+    margin-left: 600px;
+    margin-bottom: 10px;
+    height: 4vh;
+    width: 22vw;
+   
+}
+#rat{
+    border: 1px solid lightgray;
+    margin-left: 600px;
+    margin-bottom: 10px;
+    height: 4vh;
+    width: 22vw;
+   color: gray;
+}
+#button{
+    border: 1px solid rgb(25, 111, 240);
+    margin-left: 600px;
+    margin-bottom: 10px;
+    height: 4vh;
+    width: 22vw;
+   color: white;
+   background-color: rgb(25, 111, 240);
+}
